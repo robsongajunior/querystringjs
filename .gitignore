@@ -1,0 +1,32 @@
+# development variable directories
+
+public/
+node_modules/
+dist/
+.Trash-1000
+package-lock.json
+npm-shrinkwrap.json
+
+# IDEs metadata
+
+.project
+nbproject
+sftp-config.json
+
+
+# temp files
+
+~*
+._*
+*~
+
+.DS_Store
+*/**/.DS_Store
+
+npm-debug.log
+
+*.swp
+*.swo
+
+*/**/*.swp
+*/**/*.swo

@@ -1,0 +1,14 @@
+{
+    "name": "querystringjs",
+    "version": "0.0.1",
+    "description": "querystringjs following the HTTP RFC.",
+    "main": "",
+    "private": false,
+    "author": "@robsongajunior / robson.ga.junior@gmail.com",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://gitlab.com/robsongajunior/querystringjs/"
+    },
+    "keywords": []
+}
